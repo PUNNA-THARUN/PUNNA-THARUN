@@ -2,7 +2,8 @@
 
 - 🔭 I’m an Enthusiastic Data Scientist.......💹
 - ⚡ Fun fact: I'm hungry for data......😋
-- 📫 How to reach me:(https://www.linkedin.com/in/punna-tharun/)....🔗
+- 🔍 Know more about me on 🫱🏼‍🫲🏼: 🔗...> (https://www.linkedin.com/in/punna-tharun/)
+- 📧 Reach out me on:📧 ...> (tharunpunna@gmail.com)
 
 <!--
 **PUNNA-THARUN/PUNNA-THARUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
