@@ -1,4 +1,4 @@
-### Hi there, Tharun here! 👋
+### Hello, Tharun here! 👋
 
 - 🔭 I’m an Enthusiastic Data Scientist.......💹
 - ⚡ Fun fact: I'm hungry for data......😋
