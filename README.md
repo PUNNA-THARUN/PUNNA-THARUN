@@ -1,4 +1,4 @@
-### Hello, Tharun here! ![namaste](https://user-images.githubusercontent.com/112575126/232463310-b7a2c995-4d18-470d-8eb7-36c048cd0af0.gif)
+### Hello, Tharun here! ![ezgif com-gif-maker](https://user-images.githubusercontent.com/112575126/232464873-d412fa32-360e-453d-a09c-89ba3906ee3f.gif)
 
 
 
