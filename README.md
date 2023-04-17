@@ -1,4 +1,5 @@
-### Hello, Tharun here! 👋
+### Hello, Tharun here! ![ezgif com-resize (2)](https://user-images.githubusercontent.com/112575126/232462634-6ea96602-19e0-4358-a3c4-7d579beb6503.gif)
+
 
 - 🔭 I’m an Enthusiastic Data Scientist.......💹
 - ⚡ Fun fact: I'm hungry for data......😋
