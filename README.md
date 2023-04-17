@@ -1,4 +1,5 @@
-### Hi there!👋
+### Hi there! [image](https://user-images.githubusercontent.com/112575126/232457477-f5022c25-89f7-47ef-b7c3-20de7fb51cb5.png)
+
 
 - 🔭 I’m an Enthusiastic Data Scientist.......💹
 - ⚡ Fun fact: I'm hungry for data......😋
