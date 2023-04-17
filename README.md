@@ -1,5 +1,4 @@
-### Hi there![BeckadoodlesLoveGIF](https://user-images.githubusercontent.com/112575126/232456942-db2d4a7f-c3cd-4189-9060-a8857dd827bc.gif)
- 👋
+### Hi there!👋
 
 - 🔭 I’m an Enthusiastic Data Scientist.......💹
 - ⚡ Fun fact: I'm hungry for data......😋
