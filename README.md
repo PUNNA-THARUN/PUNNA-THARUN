@@ -10,7 +10,7 @@
 ](https://www.linkedin.com/in/punna-tharun/)
 
 
-- 📧 Reach out me on: ..............> [![ezgif com-resize (2)](https://user-images.githubusercontent.com/112575126/235309238-d411aa26-69cb-47ad-82b6-d27d4366695a.png)
+- 📧 Reach out me on: 🔗..............> [![ezgif com-resize (2)](https://user-images.githubusercontent.com/112575126/235309238-d411aa26-69cb-47ad-82b6-d27d4366695a.png)
 ](tharunpunna@gmail.com)
 
 
