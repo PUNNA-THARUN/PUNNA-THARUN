@@ -6,7 +6,8 @@
 
 - 🔭 I’m an Enthusiastic Data Scientist.......💹
 - ⚡ Fun fact: I'm hungry for ![ezgif com-resize (2)](https://user-images.githubusercontent.com/112575126/235303257-18066d86-30fa-412e-a157-7e723726dc4d.gif)......😋
-- 🔍 Know more about me on 🫱🏼‍🫲🏼: 🔗...> ![ezgif com-resize](https://user-images.githubusercontent.com/112575126/235307790-caed789a-4ccb-41f3-970f-5165ee9b4588.png)[(https://www.linkedin.com/in/punna-tharun/)]
+- 🔍 Know more about me on 🫱🏼‍🫲🏼: 🔗...> [![ezgif com-resize](https://user-images.githubusercontent.com/112575126/235308329-03713b35-9cf9-4877-970d-6602af64763b.png)](https://www.linkedin.com/in/punna-tharun/)
+
 
 - 📧 Reach out me on:📧 ...> (tharunpunna@gmail.com)
 
@@ -17,4 +18,4 @@
 ![ezgif com-resize (4)](https://user-images.githubusercontent.com/112575126/235303674-3e32992c-8b85-413e-9fd6-df6c39f57311.gif)
 
 
-www.linkedin.com/in/punna-tharun/
+
