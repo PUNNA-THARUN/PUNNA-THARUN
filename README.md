@@ -44,7 +44,7 @@
 <!-- <img align= "right" src="https://user-images.githubusercontent.com/112575126/235303674-3e32992c-8b85-413e-9fd6-df6c39f57311.gif" />
  -->
 
-<img width= "30%" src="https://github-readme-stats.vercel.app/api?username=PUNNA-THARUN&show_icons=true&theme=highcontrast" />
+<img align= "bottom" width= "30%" src="https://github-readme-stats.vercel.app/api?username=PUNNA-THARUN&show_icons=true&theme=highcontrast" />
 
 <img align= "right" width= "20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUNNA-THARUN&hide_progress=true" />
 
