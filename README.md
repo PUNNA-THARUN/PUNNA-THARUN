@@ -14,16 +14,18 @@
 ](tharunpunna@gmail.com)
 
 
-![ezgif com-resize (1)](https://user-images.githubusercontent.com/112575126/232461898-cb1c2cf5-a8dc-46c6-b7ac-4c0adf145f6e.gif)  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎‎ ‎ ![ezgif com-resize (4)](https://user-images.githubusercontent.com/112575126/235303674-3e32992c-8b85-413e-9fd6-df6c39f57311.gif)‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎‎    ![ezgif com-resize (7)](https://user-images.githubusercontent.com/112575126/235303953-a5abbe79-d698-48ab-8fd6-3a5581f7526b.gif)
 
+<img align= "top" src="https://user-images.githubusercontent.com/112575126/232461898-cb1c2cf5-a8dc-46c6-b7ac-4c0adf145f6e.gif" />
 
-                                         
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-
+<!-- <img align= "right" src="https://user-images.githubusercontent.com/112575126/235303674-3e32992c-8b85-413e-9fd6-df6c39f57311.gif" />
+ -->
 
 
 <img align= "left" width= "37%" src="https://github-readme-stats.vercel.app/api?username=PUNNA-THARUN&show_icons=true&theme=highcontrast" />
 
-<img align= "left" width= "27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUNNA-THARUN&hide_progress=true" />
+<img align= "left" width= "20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUNNA-THARUN&hide_progress=true" />
 
+
+<img align= "right" src= "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img align= "right" src= "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
