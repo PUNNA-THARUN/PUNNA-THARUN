@@ -21,3 +21,9 @@
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
+
+<img align= "left" width= "32%" src="https://github-readme-stats.vercel.app/api?username=PUNNA-THARUN&show_icons=true&theme=highcontrast" />
+
+<img align= "left" width= "32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUNNA-THARUN&hide_progress=true" />
+
+
