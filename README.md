@@ -8,7 +8,7 @@
 
 - 🔭 I'm an Enthusiastic Data Scientist and Analyst 💹
 - 👷‍♂️ Working on Data Analysis
-- 📫 Mail me: [www.gmail.com](mailto:tharunpunna@gmail.com)
+- 📫 Mail me: [tharunpunna@gmail.com](mailto:tharunpunna@gmail.com)
 - ⚡ Fun fact: I'm hungry on data 😋
 - 📃 Checkout my [resume](https://github.com/PUNNA-THARUN/PUNNA-THARUN/blob/main/resume.pdf)
 
