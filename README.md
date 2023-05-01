@@ -24,8 +24,7 @@
 
 <p>&nbsp;<img align="right"  width= "33%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PUNNA-THARUN&show_icons=true&theme=highcontrast" alt="punna-tharun" /></p>
 
-<p><img align="right" width= "22%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUNNA-THARUN&hide_progress=true" alt="punna-tharun" /></p>
-
+<p><img align="right" width= "15%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=punna-tharun&layout=red" alt="punna-tharun" /></p>
 
 <img align= "left" src="https://user-images.githubusercontent.com/112575126/232461898-cb1c2cf5-a8dc-46c6-b7ac-4c0adf145f6e.gif" />
 
