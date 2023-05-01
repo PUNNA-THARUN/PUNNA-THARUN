@@ -1,30 +1,54 @@
+<p align="right">
+  <a href="https://wakatime.com/PUNNA-THARUN"><img alt="" src="https://wakatime.com/badge/user/8e02bfd3-85d8-4d9d-88df-fa983f91ff30.svg"></a>
+  <a href="#"><img alt="" src="https://gpvc.arturio.dev/PUNNA-THARUN"></a>
+</p>
+
 <p align="center"><img src="https://user-images.githubusercontent.com/112575126/235303194-ac77b7e4-8af8-4b1a-8cfc-33cde72fd45e.gif"></p><h1 align="center">𝙏𝙝𝙖𝙧𝙪𝙣 𝙝𝙚𝙧𝙚!
 </h1>
-<h3 align="center">🔭 𝕀’𝕞 𝕒𝕟 𝔼𝕟𝕥𝕙𝕦𝕤𝕚𝕒𝕤𝕥𝕚𝕔 𝔻𝕒𝕥𝕒 𝕊𝕔𝕚𝕖𝕟𝕥𝕚𝕤𝕥 𝕒𝕟𝕕 𝔸𝕟𝕒𝕝𝕪𝕤𝕥.......💹</h3>
-<h3 align="center">⚡ 𝓕𝓾𝓷 𝓯𝓪𝓬𝓽: 𝓘'𝓶 𝓱𝓾𝓷𝓰𝓻𝔂 𝓯𝓸𝓻 𝓓𝓪𝓽𝓪......😋</h3>
+
+- 🔭 I'm an Enthusiastic Data Scientist and Analyst 💹
+- 👷‍♂️ Working on Data Analysis
+- 📫 Mail me: [www.gmail.com](mailto:tharunpunna@gmail.com)
+- ⚡ Fun fact: I'm hungry on data 😋
+- 📃 Checkout my [resume](https://github.com/PUNNA-THARUN/PUNNA-THARUN/blob/main/resume.pdf)
 
 
-<h3 align="left">👉𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙬𝙞𝙩𝙝 𝙢𝙚 📩:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/punna-tharun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tharunpunna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
-<a href="tharunpunna@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="40" /></a>
+### 🔗 Connect with me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-Punna%20Tharun-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/punna-tharun/)](https://www.linkedin.com/in/punna-tharun/)
+[![Facebook Badge](https://img.shields.io/badge/-P%20Tharun-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/tharun.punna.9/)](https://www.facebook.com/tharun.punna.9/)
+[![Twitter](https://img.shields.io/badge/@PunnaTharun-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PunnaTharun)
+[![Spotify Badge](https://img.shields.io/badge/-tharunpunna-1ed760?logo=hackerrank&logoColor=white&link=https://www.iconfinder.com/icons/4373234/hackerrank_logo_logos_icon)](https://www.hackerrank.com/tharunpunna?hr_r=1)
+
+
+### ⚡ Skills:
+[![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
+[![MySQL](https://img.shields.io/badge/-MySQL-5e5e5e?logo=MySQL)](#)
+[![PowerBI](https://img.shields.io/badge/-PowerBI-5e5e5e?logo=powerBI)](#)
+[![Tableau](https://img.shields.io/badge/-tableau-5e5e5e?logo=tableau)](#)
+[![AWS](https://img.shields.io/badge/-AWS-5e5e5e?logo=Amazon)](#)
+[![Pandas](https://img.shields.io/badge/-Pandas-5e5e5e?logo=Pandas)](#)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-5e5e5e?logo=TensorFlow)](#)
+[![Scikit](https://img.shields.io/badge/-scikit%20learn-5e5e5e?logo=scikit-learn)](#)
+[![Numpy](https://img.shields.io/badge/-Numpy-5e5e5e?logo=numpy)](#)
+[![Plotly](https://img.shields.io/badge/-plotly-5E5E5E?logo=plotly)]
+[![Seaborn](https://img.shields.io/badge/-Seaborn-5FCDE8?logo=seaborn)](#)
+[![Scipy](https://img.shields.io/badge/-Scipy-5E5E5E?logo=scipy)](#)
+[![MS_Excel](https://img.shields.io/badge/-Excel-09B755?logo=Microsoft+Excel)](#)
+[![ML](https://img.shields.io/badge/-ML_&_NLP-914DEB?logo=opencv)](#)
+
+### 🛠 Tools:
+<p>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
 </p>
 
-
-<h3 align="left">👉𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 𝙖𝙣𝙙 𝙏𝙤𝙤𝙡𝙨 🧑‍💻:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://www.Matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" width="40" height="40"/> </a>
-<a href="https://www.numpy.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" width="50" height="40"/> </a>
-<a href="https://www.SciPy.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy" width="50" height="40"/> </a>
-<a href="https://www.plotly.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly" width="50" height="40"/> </a>
-<a href="https://www.powerbi.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/112575126/235456735-c20d4fd3-9687-4dfa-abc2-cf19e327b3e9.png" alt="powerbi" width="50" height="40"/> </a>
-<a href="https://www.tableau.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/112575126/235456291-1d50b19b-db4d-4245-a892-dc7a97184ffd.png" alt="tableau" width="50" height="40"/> </a>  
+## 💻 GitHub Stats:
+<p align="center">
+  <a href="#"><img alt="Tharun's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PUNNA-THARUN&show_icons=true&theme=highcontrast" height="192px" width="430px"></a>
+  <a href="#"><img alt="Tharun's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mo-shakib&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a><br>
 </p>
-
-<p>&nbsp;<img align="right"  width= "33%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PUNNA-THARUN&show_icons=true&theme=highcontrast" alt="punna-tharun" /></p>
-
-<p><img align="right" width= "15%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=punna-tharun&layout=red" alt="punna-tharun" /></p>
 
 <img align= "left" src="https://user-images.githubusercontent.com/112575126/232461898-cb1c2cf5-a8dc-46c6-b7ac-4c0adf145f6e.gif" />
-
+  
