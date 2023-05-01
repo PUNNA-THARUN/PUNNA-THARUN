@@ -31,7 +31,7 @@
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-5e5e5e?logo=TensorFlow)](#)
 [![Scikit](https://img.shields.io/badge/-scikit%20learn-5e5e5e?logo=scikit-learn)](#)
 [![Numpy](https://img.shields.io/badge/-Numpy-5e5e5e?logo=numpy)](#)
-[![Plotly](https://img.shields.io/badge/-plotly-5E5E5E?logo=plotly)]
+[![Plotly](https://img.shields.io/badge/-plotly-5E5E5E?logo=plotly)](#)
 [![Seaborn](https://img.shields.io/badge/-Seaborn-5FCDE8?logo=seaborn)](#)
 [![Scipy](https://img.shields.io/badge/-Scipy-5E5E5E?logo=scipy)](#)
 [![MS_Excel](https://img.shields.io/badge/-Excel-09B755?logo=Microsoft+Excel)](#)
