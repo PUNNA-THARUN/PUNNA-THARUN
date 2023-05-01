@@ -18,8 +18,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Punna%20Tharun-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/punna-tharun/)](https://www.linkedin.com/in/punna-tharun/)
 [![Facebook Badge](https://img.shields.io/badge/-P%20Tharun-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/tharun.punna.9/)](https://www.facebook.com/tharun.punna.9/)
 [![Twitter](https://img.shields.io/badge/@PunnaTharun-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PunnaTharun)
-[![Spotify Badge](https://img.shields.io/badge/-tharunpunna-1ed760?logo=hackerrank&logoColor=white&link=https://www.iconfinder.com/icons/4373234/hackerrank_logo_logos_icon)](https://www.hackerrank.com/tharunpunna?hr_r=1)
-
+[![Hackerrank](https://img.shields.io/badge/-tharunpunna-1ed760?logo=hackerrank&logoColor=white&link=https://www.iconfinder.com/icons/4373234/hackerrank_logo_logos_icon)](https://www.hackerrank.com/tharunpunna?hr_r=1)
+[![Instagram](https://img.shields.io/badge/@tharunpunna-%23FC5635.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tharunpunna/)
 
 ### ⚡ Skills:
 [![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
