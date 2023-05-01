@@ -47,7 +47,7 @@
 ## 💻 GitHub Stats:
 <p align="center">
   <a href="#"><img alt="Tharun's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PUNNA-THARUN&show_icons=true&theme=highcontrast" height="192px" width="430px"></a>
-  <a href="#"><img alt="Tharun's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mo-shakib&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a><br>
+  <a href="#"><img alt="Tharun's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PUNNA-THARUN&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a><br>
 </p>
 
 <img align= "left" src="https://user-images.githubusercontent.com/112575126/232461898-cb1c2cf5-a8dc-46c6-b7ac-4c0adf145f6e.gif" />
