@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/112575126/235303194-ac77b7e4-8af8-4b1a-8cfc-33cde72fd45e.gif"></p><h1 align="center">Tharun here!</h1>
+<p align="center"><img src="https://user-images.githubusercontent.com/112575126/235303194-ac77b7e4-8af8-4b1a-8cfc-33cde72fd45e.gif"></p><h1 align="center">𝓣𝓱𝓪𝓻𝓾𝓷 𝓱𝓮𝓻𝓮!</h1>
 <h3 align="center">🔭 𝕀’𝕞 𝕒𝕟 𝔼𝕟𝕥𝕙𝕦𝕤𝕚𝕒𝕤𝕥𝕚𝕔 𝔻𝕒𝕥𝕒 𝕊𝕔𝕚𝕖𝕟𝕥𝕚𝕤𝕥.......💹</h3>
 <h3 align="center">⚡ 𝓕𝓾𝓷 𝓯𝓪𝓬𝓽: 𝓘'𝓶 𝓱𝓾𝓷𝓰𝓻𝔂 𝓯𝓸𝓻 𝓓𝓪𝓽𝓪......😋</h3>
 
