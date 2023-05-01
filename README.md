@@ -21,8 +21,8 @@
 <a href="https://www.tableau.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/112575126/235456291-1d50b19b-db4d-4245-a892-dc7a97184ffd.png" alt="tableau" width="50" height="40"/> </a>  
 </p>
 
-<p><img align="left" width= "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUNNA-THARUN&hide_progress=true" alt="punna-tharun" /></p>
+<p><img align="left" width= "20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUNNA-THARUN&hide_progress=true" alt="punna-tharun" /></p>
 
-<p>&nbsp;<img align="center"  width= "30%" src="https://github-readme-stats.vercel.app/api?username=PUNNA-THARUN&show_icons=true&theme=highcontrast" alt="punna-tharun" /></p>
+<p>&nbsp;<img align="center"  width= "33%" src="https://github-readme-stats.vercel.app/api?username=PUNNA-THARUN&show_icons=true&theme=highcontrast" alt="punna-tharun" /></p>
 
 <img align= "right" src="https://user-images.githubusercontent.com/112575126/232461898-cb1c2cf5-a8dc-46c6-b7ac-4c0adf145f6e.gif" />
