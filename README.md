@@ -1,9 +1,9 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/112575126/235303194-ac77b7e4-8af8-4b1a-8cfc-33cde72fd45e.gif"></p><h1 align="center">Tharun here!</h1>
-<h3 align="center">🔭 An Enthusiastic Data Scientist and Analyst...💹</h3>
-<h3 align="center">⚡ Fun fact: I'm hungry for Data.....😋</h3>
+<h3 align="center">🔭 𝕀’𝕞 𝕒𝕟 𝔼𝕟𝕥𝕙𝕦𝕤𝕚𝕒𝕤𝕥𝕚𝕔 𝔻𝕒𝕥𝕒 𝕊𝕔𝕚𝕖𝕟𝕥𝕚𝕤𝕥.......💹</h3>
+<h3 align="center">⚡ 𝓕𝓾𝓷 𝓯𝓪𝓬𝓽: 𝓘'𝓶 𝓱𝓾𝓷𝓰𝓻𝔂 𝓯𝓸𝓻 𝓓𝓪𝓽𝓪......😋</h3>
 
 
-<h3 align="left">->📩 Connect with me 👇:</h3>
+<h3 align="left">👉𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙬𝙞𝙩𝙝 𝙢𝙚 📩:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/punna-tharun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tharunpunna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
@@ -11,7 +11,7 @@
 </p>
 
 
-<h3 align="left">->🧑‍💻Languages and Tools💻:</h3>
+<h3 align="left">👉𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 𝙖𝙣𝙙 𝙏𝙤𝙤𝙡𝙨 🧑‍💻:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://www.Matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" width="40" height="40"/> </a>
 <a href="https://www.numpy.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" width="50" height="40"/> </a>
