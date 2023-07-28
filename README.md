@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="https://wakatime.com/PUNNA-THARUN"><img alt="" src="https://wakatime.com/badge/user/8e02bfd3-85d8-4d9d-88df-fa983f91ff30.svg"></a>
+  <a href="https://waketime.com/PUNNA-THARUN"><img alt="" src="https://wakatime.com/badge/user/8e02bfd3-85d8-4d9d-88df-fa983f91ff30.svg"></a>
   <a href="#"><img alt="" src="https://gpvc.arturio.dev/PUNNA-THARUN"></a>
 </p>
 
